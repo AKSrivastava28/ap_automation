@@ -1,0 +1,8 @@
+po_number,vendor_name,order_date,approved_amount,items_ordered,currency
+1001,Acme Corp,2026-06-01,12500.00,"Cloud Hosting Services, Database Support License",USD
+1002,Globex Corporation,2026-06-05,8450.00,Enterprise Security Software,USD
+1003,Stark Industries,2026-06-10,5000.00,Arc Reactor Maintenance,USD
+1004,Acme Corp,2026-06-22,1200.00,"10X widgets, 5X gadgets",USD
+A03115,myNEWS.com,2018-03-23,10.00,1X JALAN JALAN (Majalah),MYR
+PO-2026-028,Bengal Textiles Ltd,2026-06-14,2750000.00,Uniform fabric - bulk order,INR
+PO-2026-013,Technova Solutions,2026-06-19,15600.00,"Cloud Infrastructure Subscription - Annual Plan (billed monthly)",USD

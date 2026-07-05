@@ -1,0 +1,16 @@
+# Python virtual environment
+backend/venv/
+backend/__pycache__/
+backend/services/__pycache__/
+*.pyc
+
+# Node dependencies and build output
+frontend/node_modules/
+frontend/dist/
+
+# OS/IDE metadata files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log

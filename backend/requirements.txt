@@ -1,0 +1,9 @@
+fastapi>=0.100.0
+uvicorn>=0.22.0
+pypdf>=3.10.0
+pandas>=2.0.0
+openpyxl>=3.1.0
+python-multipart>=0.0.6
+# For OCR capabilities, install these if they are supported on your system:
+# paddleocr>=2.7.0
+# paddlepaddle>=2.5.0
